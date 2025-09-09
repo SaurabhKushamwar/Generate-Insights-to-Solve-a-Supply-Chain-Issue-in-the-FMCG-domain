@@ -34,8 +34,7 @@ As **Peter Pandey (Data Analyst)**, I designed the dashboard to:
 ---
 
 ## Dashboard Preview  
-![Dashboard Overview](<img width="1370" height="772" alt="image" src="https://github.com/user-attachments/assets/0e2e69b8-9c79-4e23-a1ab-bd73cd00ce54" />
-)  
+![Dashboard Overview](https://github.com/SaurabhKushamwar/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain/blob/main/Dashboard/KPI%20Level.png)
 
 ---
 
