@@ -32,6 +32,8 @@ As **Peter Pandey (Data Analyst)**, I designed the dashboard to:
 - Recommendation: Improve logistics in underperforming stores before expansion  
 
 ---
+## 🔗 Live Dashboard
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMxODRkNmQtNTA1Ni00NzM1LTkzNDEtYzI1M2Q2NWU2NGRmIiwidCI6ImEzZWIwYTc5LTA4NDEtNDQ5YS1iMzhkLTI1MTZiNzczZTRkMiJ9)
 
 ## Dashboard Preview  
 **Overall**
