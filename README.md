@@ -1,68 +1,45 @@
 # Generate Insights to Solve a Supply Chain Issue in the FMCG domain
 
-## 🏢 Project Overview  
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India.  
-The company currently operates in **Surat, Ahmedabad, and Vadodara** and plans to expand to other Tier-1 cities within the next 2 years.  
+## Business Context  
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. Currently, it operates in **Surat, Ahmedabad, and Vadodara**, and plans to expand to Tier-1 cities within 2 years.  
 
-However, the company is facing a major challenge:  
-- A few key customers did **not renew their contracts** due to **poor service levels**.  
-- Some essential products were **delivered late or incomplete**.  
-- This created **bad customer experience** and risked future expansion.  
-
-To solve this, the **Supply Chain Analytics Team** initiated a project to track:  
-- ✅ On-Time Delivery (OT %)  
-- ✅ In-Full Delivery (IF %)  
-- ✅ On-Time In-Full (OTIF %)  
-
-The goal is to monitor these metrics **daily at the customer/store level** and improve delivery service levels.  
+**Problem:** Some key customers did not renew contracts due to **late or incomplete deliveries**.  
+**Objective:** Build a dashboard to track **On-Time (OT %)**, **In-Full (IF %)**, and **On-Time In-Full (OTIF %)** daily against customer targets.  
 
 ---
 
-## 🎯 Problem Statement  
-> **Management wants to fix delivery issues before expansion.**  
-> They asked the analytics team to **track service level metrics** and provide **insights on customer-level performance** to identify delays, incomplete deliveries, and improvement areas.  
+## My Role  
+As **Peter Pandey (Data Analyst)**, I designed the dashboard to:  
+- Measure OT %, IF %, and OTIF %  
+- Compare results against targets  
+- Provide insights on customer & store-level performance  
+- Recommend improvements for expansion readiness  
 
 ---
 
-## 📈 Dashboard Insights  
-
-1. **Overall Service Levels**  
-   - OT %, IF %, and OTIF % are **below the target** in multiple cities.  
-   - Performance gap of ~20–25% between best and worst customers.  
-
-2. **Customer/Store-Level Insights**  
-   - **Best performers:** Propel Mart, Rel Fresh, Expression Stores → consistently high on-time & full deliveries.  
-   - **Worst performers:** Coolblue, Elite Mart, Lotus Mart → frequent delays and incomplete orders.  
-
-3. **Trend Analysis**  
-   - Delays spike in specific weeks, suggesting **seasonal or operational bottlenecks**.  
-   - Early deliveries also contribute to service inconsistency.  
-
-4. **Cluster Analysis**  
-   - Customers grouped into **High Service / Low Service clusters**.  
-   - Targeted actions can improve **low-service customers** instead of applying broad changes.  
+## Tools & Skills  
+- **SQL** – Data extraction & transformation  
+- **Excel** – Data cleaning & preparation  
+- **Power BI** – Dashboard creation  
+- **Analytics** – Service-level KPIs (LIFR, VOFR, OTIF)  
 
 ---
 
-## ✅ Key Recommendations  
-- Standardize **logistics & inventory planning** across cities.  
-- Conduct **root cause analysis** for worst-performing stores (Coolblue, Lotus, Elite).  
-- Share **best practices** from top-performing customers across the network.  
-- Implement **real-time monitoring** of OT, IF, and OTIF to proactively address issues.  
+## Key Insights  
+- **Top performers:** Propel Mart, Rel Fresh, Expression Stores  
+- **Low performers:** Coolblue, Elite Mart, Lotus Mart (low LIFR & high delays)  
+- Best vs Worst store → **25% service gap**  
+- Recommendation: Improve logistics in underperforming stores before expansion  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Power BI** → Dashboard creation & visualization  
-- **SQL** → Data cleaning & transformation  
-- **Excel** → Data preprocessing & exploration  
+## Dashboard Preview  
+![Dashboard Overview](./screenshots/dashboard_overview.png)  
 
 ---
 
-## 👨‍💻 About the Analyst  
-This project was created as part of a **Data Analytics Portfolio** by *Saurabh Kushwaha*.  
-
-- 📌 Skills Used: SQL, Power BI, Data Analysis, Business Communication  
-- 🎯 Focus: Converting business problems into **actionable insights**  
+## Author  
+👨‍💻 *Saurabh Kushamwar – Data Analyst*  
+🔗 [Portfolio Website](your-portfolio-link) | [LinkedIn](your-linkedin-link)  
 
 ---
