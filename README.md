@@ -34,9 +34,16 @@ As **Peter Pandey (Data Analyst)**, I designed the dashboard to:
 ---
 
 ## Dashboard Preview  
+**Overall**
 ![Overall](https://github.com/SaurabhKushamwar/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain/blob/main/Dashboard/Overall.png)
+
+**KPI Level**
 ![KPI Level](https://github.com/SaurabhKushamwar/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain/blob/main/Dashboard/KPI%20Level.png)
+
+**Service Level**
 ![Service Level](https://github.com/SaurabhKushamwar/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain/blob/main/Dashboard/Service_Level.png)
+
+**Product Level**
 ![Product Level](https://github.com/SaurabhKushamwar/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain/blob/main/Dashboard/Product_Level.png)
 
 
